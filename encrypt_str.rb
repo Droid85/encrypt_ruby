@@ -24,9 +24,9 @@ def encryptor(str, num)
   $encrypted_text = str
 end
 
-def decryptor(str, num)
-
-end
+#def decryptor(str, num)
+#
+#end
 
 # Encrypt method
 def encrypt(str, num)
